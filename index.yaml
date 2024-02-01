@@ -1,0 +1,35 @@
+apiVersion: v1
+entries:
+  cloudwatch:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-01T17:00:29.5109699-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 53c59c6d73be32d131f6701e29ad912f56a6a8594ef042f22dee1892b3455f19
+    name: cloudwatch
+    type: application
+    urls:
+    - cloudwatch-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-01T17:00:29.5257373-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 53c59c6d73be32d131f6701e29ad912f56a6a8594ef042f22dee1892b3455f19
+    name: cloudwatch
+    type: application
+    urls:
+    - cloudwatch/cloudwatch-0.1.0.tgz
+    version: 0.1.0
+  container-insights:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-01T17:00:29.5227977-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 51db4000f228d5da1bf34f73a90605585d1042f0e1c817a626c1113ec1ba9c99
+    name: container-insights
+    type: application
+    urls:
+    - container-insights-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-01T17:00:29.507964-05:00"

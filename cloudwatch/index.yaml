@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cloudwatch:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-01T16:52:53.2048354-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 53c59c6d73be32d131f6701e29ad912f56a6a8594ef042f22dee1892b3455f19
+    name: cloudwatch
+    type: application
+    urls:
+    - cloudwatch-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-01T16:52:53.1966264-05:00"
